@@ -1,5 +1,7 @@
 # Info about my ACTAM projects
 
-## How to run
+Details about the projects
+
+## How it works
 
 ## Contribute
